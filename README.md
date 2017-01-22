@@ -11,12 +11,14 @@ correctly in further attempts.
 
 ScreenShots
 -----------
-
+<img src="https://firebasestorage.googleapis.com/v0/b/delhi06-31a81.appspot.com/o/quiz2.jpg?alt=media&token=525c8dfb-8c7f-4c8f-94de-a3a6caf9918f" width="280"/>
+<img src="https://firebasestorage.googleapis.com/v0/b/delhi06-31a81.appspot.com/o/quiz3.jpg?alt=media&token=bc1fca83-a2b7-4f17-863c-19aae885ca26" width="280"/>
+<img src="https://firebasestorage.googleapis.com/v0/b/delhi06-31a81.appspot.com/o/quiz4.jpg?alt=media&token=f8306166-fda9-4489-81ba-183a7d3b8aab" width="280"/>
 
 
 Components Used
 ----------------
-<br/>CardView
+CardView
 <br/>ScrollView
 <br/>Custom Circular TextView
 <br/>Custom Fonts
