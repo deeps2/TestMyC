@@ -33,5 +33,6 @@ Video Demo:
 -----------
 https://www.youtube.com/watch?v=3U3kOYfYJ-M
 
+This app is a project work done by me under Udacity Android Basics Nanodegree. Thanks to the course videos provided by Udacity. 
 
 
